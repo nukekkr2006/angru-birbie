@@ -1,2 +1,2 @@
-# angru-birbie
-best game of the century
+# angryBirdsStage2StudentActivity
+Student Activity Link for Angry Birds Stage 2
